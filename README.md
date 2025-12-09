@@ -64,6 +64,8 @@ A workflow that:
 ### 🔥 **AI Insights Automation Agent**
 Generate insights automatically using an LLM + automation pipeline.  
 🔗 Repo: https://github.com/mambis1409/ai-insights-automation-agent
+🔗 Repo: https://github.com/Mambis1409/conversion-prediction-ml-model
+🔗 Repo: https://github.com/Mambis1409/hr-attrition-analysis
 
 *(More coming soon…)*
 
