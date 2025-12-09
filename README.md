@@ -23,7 +23,8 @@ A workflow that:
 
 📂 **Repo:**  
 👉 [AI Insights Automation Agent](https://github.com/mambis1409/ai-insights-automation-agent)
-
+👉 [Conversion Prediction ML Model](https://github.com/Mambis1409/conversion-prediction-ml-model
+👉 [Conversion Prediction ML Model](https://github.com/Mambis1409/conversion-prediction-ml-model
 ---
 
 ## 🧠 **Skills & Tools**
