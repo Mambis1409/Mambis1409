@@ -73,7 +73,7 @@ Generate insights automatically using an LLM + automation pipeline.
 
 ## 🌍 **Experience**
 - **Robert Bosch GmbH (Germany)** — Data Analytics & Automation  
-- **ANM Analytics** — Analytics Engineering Lead  
+- **ANM Analytics** — Analytics Consultant 
 - Worked across automotive, finance, e-commerce, telecom & edTech  
 
 ---
