@@ -1,104 +1,63 @@
-# 👋 Hi, I'm **Mamta Biswas**
-### **AI & Analytics Transformation Specialist | Automation • ML • Data Engineering**
-
-I design intelligent systems that automate insights, build scalable data workflows, and help organizations adopt AI confidently.
-
-With experience across automotive, e-commerce, finance, telecom and consulting, I'm passionate about:
-- 🤖 Agentic AI workflows  
-- 📊 Analytics engineering  
-- 🧠 Machine learning  
-- ☁️ Cloud data pipelines (GCP)  
-- ⚙️ Automation (n8n, Zapier)  
-- 🎛️ Product & digital analytics (GA4, Amplitude)  
-
----
-
-## 🚀 **What I'm Building Right Now**
-### 🔥 **AI Insights Automation Agent**
-A workflow that:
-- Pulls data  
-- Processes it with Python  
-- Generates insights using an LLM  
-- Sends summary automatically via Slack/Email  
-
-📂 **Repo:**  
-👉 [Repositories](https://github.com/Mambis1409?tab=repositories)
----
-
-## 🧠 **Skills & Tools**
-
-### **AI & ML**
-- Python (Pandas, NumPy, Scikit-learn)
-- LLMs, prompt engineering
-- ML modeling & evaluation
-- Agentic AI systems
-
-### **Automation**
-- n8n, Zapier, Power Automate  
-- API integrations  
-- Workflow orchestration  
-
-### **Data & Cloud**
-- Google Cloud Platform (BigQuery, Storage)
-- SQL  
-- ETL/ELT pipelines  
-- Data modeling & pipelines  
-
-### **Analytics & Experimentation**
-- GA4, Amplitude, Mixpanel  
-- GTM / sGTM  
-- A/B testing (VWO, Amplitude Experiment)  
-- KPI frameworks & analysis  
-
-### **BI Visualization**
-- Power BI  
-- Tableau  
-- Looker Studio  
-
----
-
-## 📁 **Featured Projects**
-
-### 🔥 **AI Insights Automation Agent**
-Generate insights automatically using an LLM + automation pipeline.  
-🔗 Repo: https://github.com/mambis1409/ai-insights-automation-agent
-
-🔗 Repo: https://github.com/Mambis1409/conversion-prediction-ml-model
-
+👋 Hi, I'm Mamta Biswas
+HR Analytics & People Data Specialist | Talent • Rewards • Workforce Insights
+I work at the intersection of HR, data analytics, and automation, helping organizations transform people data into actionable insights.
+With experience across automotive, telecom, finance, consulting, and international HR environments, I focus on building data-driven HR solutions that improve workforce planning, talent decisions, and organizational performance.
+I'm passionate about:
+📊 People Analytics & HR Data Insights
+🧠 Workforce Analytics & Talent Intelligence
+💰 Compensation & Rewards Analytics
+⚙️ HR Process Automation
+📈 HR dashboards & data storytelling
+🤖 Applying AI to HR decision-making
+🚀 What I'm Building Right Now
+🔥 HR Analytics Automation Projects
+Projects focused on automating HR insights and improving workforce decision-making.
+Examples include:
+Workforce data analysis
+Attrition prediction models
+HR dashboards and reporting automation
+Data-driven talent insights
+📂 Repositories:
+👉 Mamta Biswas GitHub
+🧠 Skills & Tools
+People Analytics & HR Systems
+HR Analytics & Workforce Insights
+Talent Analytics
+Compensation & Rewards Analysis
+HR Reporting & KPI frameworks
+HRIS data analysis (SAP / HR systems)
+Data & Analytics
+Python (Pandas, NumPy)
+SQL
+Data cleaning & transformation
+Statistical analysis
+Predictive analytics for HR
+Visualization & BI
+Power BI
+Tableau
+Looker Studio
+Dashboard design & HR reporting
+Automation & Workflow Tools
+Power Automate
+n8n / Zapier
+API integrations
+Automated HR reporting workflows
+📁 Featured Projects
+🔹 HR Attrition Analysis
+Analyzing employee data to identify drivers of attrition and workforce trends.
 🔗 Repo: https://github.com/Mambis1409/hr-attrition-analysis
-
-*(More coming soon…)*
-
----
-
-## 🌍 **Experience**
-- **Robert Bosch GmbH (Germany)** — Data Analytics & Automation  
-- **ANM Analytics** — Analytics Consultant 
-- Worked across automotive, finance, e-commerce, telecom & edTech  
-
----
-
-## 📫 **Connect With Me**
-📍 Berlin, Germany  
-✉️ **mamtabiswas555@gmail.com**  
-
-
----
-
-✨ *Always learning. Always building. Always simplifying with AI.*
-
-
-<!--
-**Mambis1409/Mambis1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Employee Conversion Prediction Model
+Machine learning model to predict employee conversion and workforce trends.
+🔗 Repo: https://github.com/Mambis1409/conversion-prediction-ml-model
+🔹 HR Data Insights & Automation
+Projects focused on automating HR reporting and analytics pipelines.
+(More analytics projects coming soon.)
+🌍 Experience
+Robert Bosch GmbH (Germany) — HR Data & Analytics
+ANM Strategic & Management Consultants — Analytics Consultant
+Reliance Jio & Shri Ram Finance — HR Operations & Workforce Analytics
+Experience working in international, matrix organizations with exposure to HR reporting, workforce analytics, and Works Council environments.
+📫 Connect With Me
+📍 Berlin, Germany
+✉️ mamtabiswas555@gmail.com
+✨ Using data to make better people decisions.
